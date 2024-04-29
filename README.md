@@ -1,3 +1,3 @@
 # go-distributed-cas-system
-### THIS PROJECT IS CURRENTLY A WORK-IN-PROGRESS
+### THIS PROJECT IS CURRENTLY A WORK-IN-PROGRESS (More details to come)
 This is a distributed content-addressable storage (CAS) system written in Go.
